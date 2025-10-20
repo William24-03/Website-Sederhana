@@ -1,0 +1,23 @@
+
+
+.kiri{
+    width: 150px;
+    height: 500px;
+    background-color: yellow;
+    float: left;
+}
+
+.tengah{
+    width: 150px;
+    height: 500px;
+    background-color: blue;
+    float: left;
+}
+
+
+.kanan{
+    width: 150px;
+    height: 500px;
+    background-color: red;
+    float: left;
+}
